@@ -1,0 +1,30 @@
+ISLA DINAMICA PARA CELULAR  (gratis, Android y iPhone)
+
+Esta carpeta es una app web. Para instalarla en el celular necesita estar en internet;
+la forma gratuita y permanente es GitHub Pages. Se hace una sola vez, desde una computadora:
+
+1. Entra a https://github.com y crea una cuenta gratis (si no tienes).
+2. Arriba a la derecha pulsa "+" y luego "New repository".
+   Nombre: isla   |   Public   |   pulsa "Create repository".
+3. En la pagina del repositorio pulsa "uploading an existing file".
+   Arrastra TODOS los archivos de esta carpeta (index.html, manifest.webmanifest,
+   sw.js y los tres iconos .png) y pulsa "Commit changes".
+4. Ve a Settings > Pages. En "Branch" elige "main" y "/ (root)" y pulsa Save.
+5. Espera 1 o 2 minutos. La pagina te mostrara tu direccion:
+   https://TU-USUARIO.github.io/isla/
+
+En el celular:
+
+  ANDROID (Chrome):  abre esa direccion > menu de tres puntos > "Instalar app"
+                     (o "Agregar a la pantalla principal").
+  IPHONE (Safari):   abre esa direccion > boton Compartir > "Agregar a inicio".
+
+Se abre a pantalla completa, con su propio icono, y funciona sin internet
+(el clima si necesita conexion).
+
+Notas
+- Tus tareas y ajustes se guardan en el propio celular.
+- El aviso del temporizador suena solo si la app esta abierta en pantalla.
+  Activa "Mantener la pantalla encendida" en Ajustes para no perderlo.
+- Si cambias archivos y subes otra version, cierra y vuelve a abrir la app
+  para que se actualice.
